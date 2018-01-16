@@ -8,7 +8,7 @@ import Inventory from  './Inventory';
       return (
           <div className='catch-of-the-day'>
             <div className='menu'>
-              <Header  tagline="EV's Fesh Seafood Market"/>
+              <Header  tagline="Fesh Seafood Market"/>
             </div>
             <Order />
             <Inventory />
